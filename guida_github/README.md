@@ -8,24 +8,24 @@
 
 ### 2. Sancire il nome della repo, settare criteri di visibilità(Pubblica o Privata), valutare l'eventuale aggiunta di file README e, infine, creare la repository
 
-![plot](./images/image_2.png)
+![plot](./images/Image_2.png)
 
 ### 3. A questo punto si accederà alla repository vuota e sarà possibile effettuare tre tipologie di azioni: 
   1. [A] Inizializzare una nuova repo locale tramite riga di comando; 
   2. [B] Pushare una repo esistente dalla riga di comando; 
   3. [C] Importare un progetto da un'altra repository. 
 
-![plot](./images/image_3.png)
+![plot](./images/Image_3.png)
 
 ## Inizializzazione repo locale
 
 Al fine di inizializzare una repo locale è possibile eseguire i comandi descritti sopra {1. [A]}
 
-![plot](./images/image_4.png)
+![plot](./images/Image_4.png)
 
 Il risultato finale dell'operazione conterrà il progetto locale inserito nella repo remota, così come segue:
 
-![plot](./images/image_5.png)
+![plot](./images/Image_5.png)
 
 ## Creazione branch principali per suddividere lo sviluppo dalla produzione
 
@@ -42,7 +42,7 @@ Le branch possono essere create in due modi:
 
 ### Creazione branch principali da interfaccia github
 
-![plot](./images/image_6.png)
+![plot](./images/Image_6.png)
 
 !!NOTA: Se si decide di optare per la creazione da interfaccia, una volta tornati sul progetto locale, per ottenere la branch remota bisogna lanciare il comando
 ```
@@ -50,21 +50,21 @@ git pull
 ```
 ottenendo il seguente risultato nel terminale (con il riferimento alle branch pullate in locale)
 
-![plot](./images/image_7.png)
+![plot](./images/Image_7.png)
 
 a questo punto è possibile switchare nella nuova branch pullata
 
-![plot](./images/image_8.png)
+![plot](./images/Image_8.png)
 
 ### Creazione branch principali da riga di comando
 
 Per creare una nuova branch da riga di comando lanciare il seguente comando
 
-![plot](./images/image_9.png)
+![plot](./images/Image_9.png)
 
 Successivamente è possibile pubblicare direttamente la nuova branch
 
-![plot](./images/image_10.png)
+![plot](./images/Image_10.png)
 
 oppure effettuare delle modifiche alla nuova branch e pusharle insieme ad essa mediante la sequenza:
 
