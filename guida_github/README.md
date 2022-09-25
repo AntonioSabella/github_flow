@@ -159,8 +159,8 @@ git pull
 ```
 git status
 ```
-2. Effettuare merge di un branch da riga di comando
-Spostarsi sulla branch in cui mergiare le modifiche e lanciare i comandi:
+2. Effettuare merge di un branch da riga di comando.
+- Spostarsi sulla branch in cui mergiare le modifiche e lanciare i comandi:
 
 ```
 git merge <nome branch da cui mergiare>           -- per effettuare il merge
